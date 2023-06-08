@@ -28,7 +28,7 @@ const About = () => {
                 </h3>
                 <p>
                   {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                  experience. {`I'm`} from San Francisco. I code and create web
+                  experience. {`I'm`} from Venezuela living in Chile. I code and create web
                   elements for amazing people around the world. I like work with
                   new people. New people new Experiences.
                 </p>
