@@ -95,12 +95,12 @@ const MenuWithOutBlog = () => {
           <span>Blogs</span>
         </a>
       </li> */}
-      {/* <li data-menuanchor="contactus">
+      <li data-menuanchor="contactus">
         <a className="nav-link" href="#contactus">
           <i className="ti-map-alt" />
           <span>Contact Me</span>
         </a>
-      </li> */}
+      </li>
     </ul>
   );
 };
