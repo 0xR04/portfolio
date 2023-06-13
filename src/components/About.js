@@ -115,7 +115,7 @@ const About = () => {
                   <div className="rb-time">Full Time</div>
                   <p>
                   Front-end Developer, Development, maintance and improvement of views for our users using:
-                  SLIM, SASS, JS, Docker, Bootstrap, git, gitflow, React y Ruby on Rails (Proyecto 3 meses)
+                  SLIM, SASS, JS, Docker, Bootstrap, git, gitflow, React y Ruby on Rails (3 month project)
                   </p>
                 </div>
               </div>

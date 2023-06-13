@@ -24,7 +24,7 @@ const Index = () => {
                   <h6>Hello, I am</h6>
                   <h1 className="font-alt">Jean Roa</h1>
                   <p className="lead">
-                    I Am Passionate <TypingAnimation />
+                    {`I'm`} a Passionate <TypingAnimation />
                   </p>
                   <p className="desc">
                     I design and develop services for customers of all sizes,
@@ -32,8 +32,8 @@ const Index = () => {
                     services and online stores.
                   </p>
                   <div className="btn-bar">
-                    <a className="px-btn px-btn-theme" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1BkwyTBw9y1glDWBInm7pzAnZWcWPo-Ny/view?usp=sharing">
-                      Donwload CV
+                    <a className="px-btn px-btn-theme" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1-v4SdfMv4cJA8KSBSy-fxYxhOHhLhIBx/view?usp=sharing">
+                      Download CV
                     </a>
                   </div>
                 </div>
@@ -56,6 +56,9 @@ const Index = () => {
       {/* End Services */}
       {/* Portfolio */}
       <Portfolio />
+      {/* End Portfolio */}
+      {/* Portfolio */}
+      <Contact />
       {/* End Portfolio */}
     </Layout>
   );

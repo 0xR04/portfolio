@@ -13,7 +13,7 @@ const Services = () => {
     >
       <div className="container">
         <div className="title">
-          <h3>What I do?</h3>
+          <h3>What do I do?</h3>
         </div>
         <div className="row">
           <div className="col-sm-6 m-15px-tb">
